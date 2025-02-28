@@ -1,6 +1,5 @@
 import { FormEvent, useEffect, useState } from "react";
 import { Calendar, Clock, PlusCircle, Save, Trash } from "lucide-react";
-import "./App.css";
 
 type GlucoseUnit = "mg/dL" | "mmol/L";
 
